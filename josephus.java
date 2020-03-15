@@ -14,4 +14,3 @@ class josephus{
                System.out.println("\n the survivor of the ring is person number "+joseph(7,3));
          }
 }
-//over
